@@ -1,0 +1,20 @@
+.histogram-container {
+    margin-top: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .recharts-x-axis,
+  .recharts-y-axis {
+    font-size: 12px;
+  }
+  
+  .recharts-tooltip {
+    font-size: 5px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recharts-bar-rectangle {
+    fill: #82ca9d;
+  }
